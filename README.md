@@ -8,6 +8,7 @@ Link repo : https://github.com/lpd0201/iot-nhapmon
 + https://github.com/lpd0201/iot-nhapmon/pull/4
 + https://github.com/lpd0201/iot-nhapmon/pull/3
 + https://github.com/lpd0201/iot-nhapmon/pull/2
+
 Lệnh git đã dùng nhiều nhất : git checkout, git push origin
 Khó khăn gặp phải : 
 + Merge file trước khi giải quyết Conflict 
