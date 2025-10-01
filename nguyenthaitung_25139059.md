@@ -13,10 +13,11 @@ Thích tìm hiểu về robotics và các ứng dụng thông minh.
 - Python
 - HTML/CSS/JavaScript
 - Arduino
-- Git/GitHub
+- Git/GitHub.
 
 ## Sở Thích
 - Lập trình
 - Đọc sách công nghệ
 - Chơi thể thao
 - Du lịch
+
